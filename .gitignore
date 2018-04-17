@@ -1,0 +1,4 @@
+checkstyle/.evosuite
+checkstyle/.ci
+checkstyle/.circleci
+checkstyle/.travis.yml
